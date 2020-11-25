@@ -7,3 +7,7 @@
 {{ selfFunc }} 通过在template定义自定义函数完成功能
 {{ define template }} 模版嵌套
 {{ block “content” .}} {{ end }} 模版继承 多个不同页面共用一套主样式 数据不同
+## Gin_Template
+
+不同目录下的同名文件加载
+静态文件的加载 r.Static(relativePath,fileSystemPath)
