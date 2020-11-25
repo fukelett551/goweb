@@ -11,3 +11,7 @@
 
 不同目录下的同名文件加载
 静态文件的加载 r.Static(relativePath,fileSystemPath)
+
+## Gin_function
+
+返回数据 
