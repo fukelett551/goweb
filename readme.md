@@ -15,4 +15,5 @@
 ## Gin_function
 
 返回数据 
-获取参数
+获取参数 get query
+        post form
