@@ -30,3 +30,6 @@
 连接
 模型
 增 create/newRecord
+查 一般查询 first/find
+   where查询 where ? first/find
+   map/struct/slice 多条件查询
