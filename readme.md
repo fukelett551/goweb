@@ -24,3 +24,9 @@
 路由和路由组 r.any/r.norouter
 中间件 c.next()/c.abort()
       全局注册/为某个路由单独注册/为某个路由组注册
+
+## Gorm
+
+连接
+模型
+增 create/newRecord
