@@ -19,3 +19,4 @@
         post form
         uri /path/:username/:id
 参数绑定 绑定到结构体
+文件上传 
