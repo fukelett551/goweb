@@ -17,3 +17,4 @@
 返回数据 
 获取参数 get query
         post form
+        uri /path/:username/:id
