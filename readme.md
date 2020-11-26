@@ -18,3 +18,4 @@
 获取参数 get query
         post form
         uri /path/:username/:id
+参数绑定 绑定到结构体
