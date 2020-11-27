@@ -34,3 +34,4 @@
    where查询 where ? first/find
    map/struct/slice 多条件查询
 改 save/update/updates  select/omit 选中/排除属性
+删
